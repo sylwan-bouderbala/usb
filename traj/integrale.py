@@ -1,5 +1,4 @@
-
-from scipy.integrate import quad 
+from scipy.integrate import quad
 from pylab import *
 
 import numpy as np
@@ -10,7 +9,7 @@ xmax = 9.0 * ( np.pi / 2.0 )
 def function(x): 
     return np.cos(x)
 
-res, err = quad(function, xmin, xmax) 
+res, err = scipy.quad(function, xmin, xmax)
 print ('norm: ', res)
 
 t = arange(xmin, xmax, 0.01)
