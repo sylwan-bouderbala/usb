@@ -1,4 +1,3 @@
-
 from scipy.integrate import quad 
 from pylab import *
 

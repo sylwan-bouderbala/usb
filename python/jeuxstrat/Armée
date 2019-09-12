@@ -1,0 +1,4 @@
+class Armée():
+	def _init_(self,manpower):
+		self.manpower=manpower
+		pass
