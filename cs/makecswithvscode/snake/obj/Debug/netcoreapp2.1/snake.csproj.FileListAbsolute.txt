@@ -1,0 +1,11 @@
+G:\usb\cs\makecswithvscode\snake\bin\Debug\netcoreapp2.1\snake.deps.json
+G:\usb\cs\makecswithvscode\snake\bin\Debug\netcoreapp2.1\snake.runtimeconfig.json
+G:\usb\cs\makecswithvscode\snake\bin\Debug\netcoreapp2.1\snake.runtimeconfig.dev.json
+G:\usb\cs\makecswithvscode\snake\bin\Debug\netcoreapp2.1\snake.dll
+G:\usb\cs\makecswithvscode\snake\bin\Debug\netcoreapp2.1\snake.pdb
+G:\usb\cs\makecswithvscode\snake\obj\Debug\netcoreapp2.1\snake.csprojAssemblyReference.cache
+G:\usb\cs\makecswithvscode\snake\obj\Debug\netcoreapp2.1\snake.csproj.CoreCompileInputs.cache
+G:\usb\cs\makecswithvscode\snake\obj\Debug\netcoreapp2.1\snake.AssemblyInfoInputs.cache
+G:\usb\cs\makecswithvscode\snake\obj\Debug\netcoreapp2.1\snake.AssemblyInfo.cs
+G:\usb\cs\makecswithvscode\snake\obj\Debug\netcoreapp2.1\snake.dll
+G:\usb\cs\makecswithvscode\snake\obj\Debug\netcoreapp2.1\snake.pdb
